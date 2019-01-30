@@ -40,5 +40,6 @@ def play(board)
   until board == 9
   board += 1 
 end
+end
   
   
